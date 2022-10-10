@@ -1,0 +1,3 @@
+[submodule "resources/ox_fuel"]
+	path = resources/ox_fuel
+	url = https://github.com/overextended/ox_fuel.git
